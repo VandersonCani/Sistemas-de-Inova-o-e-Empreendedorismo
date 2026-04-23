@@ -1,0 +1,41 @@
+1. Explique o conceito de inovação no desenvolvimento de sistemas e dê um exemplo de como a inovação pode melhorar a usabilidade de um software.
+
+A inovação pode melhorar a usabilidade do software de varias maneiras, e na maioria das vezes as inovações simples, garantem melhor harmonia entre usuário e software, um exemplo simples disso é o botão de pular abertura, instalado na plataforma de stream Netflix há alguns anos, ou a função de aceitar colar e colar automaticamente, em plataformas bancarias que sugerem.
+
+2. Pesquise sobre uma tecnologia emergente e descreva como ela pode criar novas oportunidades de mercado. Dê exemplos de setores que podem ser transformados por essa tecnologia.
+Uma tecnologia emergente é o desenvolvimento de IA que gerencia o processamento de vídeo em places de vídeo desenvolvido pela nvidia recentemente, a IA que gerencia o processamento de vídeo reduz em até 80% o uso de gpu e memoria, mantendo a qualidade, isso tira a sobrecarga nas entregas de novas placas de vídeo, e ainda aumenta a demanda dos setores de jogos, ou de setores que trabalham com renderização gráfica.
+
+3. Cite dois exemplos de inovações em sistemas que você utilizou no seu dia a dia e explique como essas inovações melhoraram o serviço ou produto.
+Um deles é a Netflix, dizendo adeus ao aluguel de cds para assistir filmes, e outro deles é o pix gerando agilidade na compra de produtos sem custo com cartões.
+
+4. Descreva o impacto da Inteligência Artificial em um setor específico (como saúde, educação ou transporte) e como ela está gerando novas oportunidades para empresas.
+A inteligência artificial se for utilizada de maneira correta pode gerar impacto positivo, pois gera agilidade nas buscas por exemplo curas para doenças podem ser descobertas, ou com um detalhamento minucioso de sintomas até diagnósticos podem ser efetuados, na educação os alunos podem aprender métodos de estudo utilizando inteligência artificial, eu mesmo utilizo o chatgpt como tutor durante os estudos no tecnólogo de análise e desenvolvimento de sistemas, e no setor de transporte a ia pode gerar novas inovações alcançando nosso sonhos dos anos 90 com carros voadores, jetbags acessíveis e etc...
+
+5. Analise um case de sucesso (por exemplo, Uber ou Airbnb) e descreva como a inovação tecnológica foi crucial para o sucesso do modelo de negócios.
+
+Uber foi uma inovação tecnológica crucial pois seu custo beneficio e facilidade de uso, tiraram de circulação a vantagem de ligar para um taxista, e pagar taxas altíssimas, com um toque no aplicativo você tem a possibilidade de esperar um motorista, e ainda tem a possibilidade de avaliar ou até denunciar, o que nos sistemas de taxis antigos foi tudo por ligação, sem essas possibilidades a mais para o cliente. 
+
+6. Crie uma ideia de negócio inovadora aplicando uma das tecnologias emergentes citadas (IA, IoT, blockchain, etc.) e explique como ela se destacaria no mercado atual.
+
+IoT
+
+Um sistema de câmeras que identifica acidentes em locais de alta periculosidade gerando um chamado de emergência automatico, ou até análise de riscos para gerar alertas que seriam enviados aos gestores de segurança no trabalho. esse sistema tem impacto direto na segurança de trabalhadores, principalmente os que circulam em áreas de risco durante seu cotidiano, isso facilitaria para o gestor de segurança manter o ambiente seguro, e em casos de acidentes graves o tempo de resposta é mais ágil podendo salvar vidas.
+
+7. Explique como a computação em nuvem pode ajudar uma empresa a escalar suas operações e melhorar a colaboração entre equipes distribuídas. Dê exemplos práticos.
+
+A computação em nuvem pode ajudar a escalar pois dependendo a necessidade seu armazenamento pode ser aumentado, as operações ficam mais fluidas pois os sistemas não dependeriam de apenas um ponto em especifico, caso algum dos servidores dê problema ele pode ser facilmente substituído apenas utilizando a computação em nuvem, não sendo necessário compra de computador ou qualquer equipamento de hardware.
+
+8. Identifique uma área de sua vida cotidiana que você acha que poderia se beneficiar de uma inovação tecnológica e descreva como isso seria feito.
+Um software de vpn totalmente seguro que abranja a escalabilidade entre usar o computador apenas para estudo e trabalho, quanto para jogos mais pesados sem a necessidade do desktop forte por perto, como se fosse o bifor disponível pela steam, pois no meu dia a dia eu teria alguns 20 minutos para jogar algum jogo de meu agrado, porém pelo notebook e pela vpn comum consigo apenas jogar jogos leves.
+
+9. Qual a principal diferença entre um sistema de blockchain e um banco de dados tradicional? Em que cenários o uso de blockchain seria mais vantajoso?
+Um banco de dados tradicional é centralizado e com maior facilidade de ser encontrado, perdido ou invadido, enquanto que o blockchain por ser descentralizado não corre esses riscos com os métodos de invasão tradicionais, e o blockchain geralmente é utilizado para assinaturas de documentos, gerenciamento de transações em criptomoedas, entre outros...
+
+10. Descreva como a Internet das Coisas (IoT) pode ser aplicada ao setor de saúde e que tipo de oportunidades de mercado isso pode criar para empresas tecnológicas.
+
+Câmeras integradas em casas de repouso podem auxiliar no tratamento de idosos, sensores de umidade podem ajudar a identificar necessidade de troca de fraldas, quando identificar liquido pela cama, ia aplicada em câmeras nas casas de repouso podem identificar quando algum idoso não recebeu a medicação na hora correta e alertar aos enfermeiros, entre outras funcionalidades que podem ser aplicadas conforme a necessidade. 
+
+
+
+
+
