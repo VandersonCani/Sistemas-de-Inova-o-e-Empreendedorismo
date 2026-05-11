@@ -1,0 +1,204 @@
+
+======================================================================================================================================================================================================================================
+
+1. Explique a diferença entre o Business Model Canvas e o Lean Startup. Como cada um pode ser utilizado no planejamento de um sistema?
+
+O Busines Model Canvas pode ser usado para mapear e estruturar o negócio, ele é composto por nove blocos, esses blocos no final são apenas "Perguntas" que ajudam a direcionar o negócio, 
+
+Quem são os clientes? (Segmentos de clientes)
+Que valor você entrega para o cliente? (Propostas de Valor)
+Como você vai alcançar seus clientes? (Canais)
+Como a empresa interage com seus clientes? (Relacionamento com Clientes)
+Como a empresa vai gerar receita? (Fontes de Receita)
+Quais recursos são necessários? (Recursos Principais)
+O que a empresa faz para criar valor? (Atividades Principais)
+Com quem a empresa precisa colaborar? (Parcerias Principais)
+Quais são os custos do modelo? (Estrutura de Custos)
+
+enquanto que o lean startup é um modelo de validação rápida que consiste na criação de um MVP, e a partir da versão inicial criada é medido e analisado conforme a utilização dos usuários, poderíamos até dizer que ambas podem ser utilizadas juntos, onde um pode vir a complementar o outro. 
+
+======================================================================================================================================================================================================================================
+
+2. No contexto de um sistema de gerenciamento de estoque para pequenas empresas, preencha os nove blocos do Business Model Canvas com informações que fariam sentido para esse tipo de sistema.
+
+
+Quem são os clientes? (Segmentos de clientes) 
+R: Pequenas Empresas do Varejo(Mercados, Lojas de bairro, etc...)
+
+Que valor você entrega para o cliente? (Propostas de Valor) 
+R: Agilidade na administração de estoque, confiabilidade e disponibilidade das informações, backup, e gerenciamento fino de estoque.
+ 
+Como você vai alcançar seus clientes? (Canais)
+R: Através de anúncios em redes sociais e demonstrações gratuitas do sistema, mediante cadastro prévio.
+
+Como a empresa interage com seus clientes? (Relacionamento com Clientes)
+R: Com transparência quantos as finalidades e utilização do sistema, e uma disponibilidade de suporte 24hrs para problemas técnicos.
+
+Como a empresa vai gerar receita? (Fontes de Receita)
+R: Através da vendo do sistema, após período de teste o cliente(lojista) efetuará o aluguel do sistema mensalmente.
+
+Quais recursos são necessários? (Recursos Principais)
+R: Banco de dados em nuvem, para maior disponibilidade, em conjunto com banco de dados local para que o sistema não fique dependente de internet, tudo com sistemas de logs para garantir transparência nas transações.
+
+O que a empresa faz para criar valor? (Atividades Principais)
+R: Agilidade no atendimento ao cliente é a alma do sistema, pois isso garante uma maior satisfação e uma maior agilidade na melhoria do sistema, atendendo diretamente a "Dor" do cliente sempre que for solicitado.
+
+Com quem a empresa precisa colaborar? (Parcerias Principais)
+R: Com sistemas de pagamentos e sistemas de Mensagens a fim de garantir uma segurança maior com os dados dos clientes.
+
+Quais são os custos do modelo? (Estrutura de Custos)
+
+Infraestrutura: ~R$ 200/mês
+Desenvolvimento e manutenção: ~R$ 1.000/mês
+Marketing: ~R$ 500/mês
+Suporte ao cliente: ~R$ 300/mês (sem equipe dedicada)
+Integrações e serviços: ~R$ 200/mês
+Custos administrativos: ~R$ 250/mês
+
+Total médio mensal: ~R$ 2.450/mês
+
+Custo inicial (desenvolvimento do sistema): ~R$ 2.000 a R$ 8.000 (único)
+
+Custo Mensal para o Cliente (Simplificado)
+
+O sistema será oferecido no modelo de assinatura (SaaS), com os seguintes valores:
+
+* Plano básico: R$ 49/mês
+* Plano intermediário: R$ 79/mês
+* Plano completo: R$ 99/mês
+
+Os valores incluem acesso ao sistema, armazenamento em nuvem, suporte técnico e atualizações.
+
+Custo médio estimado para o cliente: ~R$ 75/mês
+
+======================================================================================================================================================================================================================================
+
+3. Descreva como o ciclo Build-Measure-Learn da Lean Startup pode ser aplicado ao desenvolvimento de um aplicativo de saúde.
+
+Inicialmente é criado um mvp onde o pciente registra dados iniciais de identificação e com dados de saúde, como peso altura, glicemia, etc... 
+
+Após o lançamento do mvp são coletados dados do pacientes como frequência de acesso funcionalidades mais utilizadas e feedbacks sobre a experiencia no aplicativo.
+
+Com base nos dados coletados a equipe analisa o comportamento dos usuários e identifica melhorias.
+
+======================================================================================================================================================================================================================================
+
+4. Explique o que é o MVP e por que ele é importante para o desenvolvimento de sistemas. Dê exemplos práticos.
+
+O MVP é importante para o desenvolvimento pois a partir dele temos a visão geral do projeto com oportunidade de melhoria continua, imagine que criamos um sistema para localizar qualquer aparelho domestico inteligente seu, como o controle do ar condicionado, ou controle da televisão, agora imagina que já criamos um mvp para esse sistema, o mvp nos permite evoluir isso para outros aparelhos que possam estar conectados a sua rede, ou outros tipos, o mvp simplesmente nos fornece um ponto de partida de baixo custo e essencial para validar características importantes da aplicação/Sistema, como análise de custos, e até a garantia de que a utilidade de suas funcionalidades vão realmente valer o custo para os possíveis clientes do sistema.
+
+======================================================================================================================================================================================================================================
+
+5. Desenvolva uma ideia de software para resolver um problema do dia a dia. Descreva como você aplicaria a validação de ideias e a prototipagem para garantir o sucesso da ideia.
+
+Uma aplicação para o estudante de tecnologia, o estudante de tecnologia utiliza o computador para mais de 90% de seus estudos diários, em seus estudos ele coleta vários textos e imagens durante suas etapas de estudos, textos e imagens com temas diferentes, e a organização desse material é a fase mais difícil do estudo em geral.
+
+Então criaremos um software que consiga organizar o estudo de maneira linear, então para organizar isso no computador de maneira geral, criaria uma ferramenta com a função de captura de tela, nativa do Windows, onde o estudante pode salvar organizadamente de maneira ágil os textos e imagens, separando por temas, matérias ou etapas de estudo.
+
+Validação da ideia:
+Para validar a ideia, seria realizado um levantamento com estudantes de tecnologia para entender se eles enfrentam essa mesma dificuldade, utilizando questionários ou entrevistas. Também poderia ser criado um protótipo simples ou até uma versão inicial do sistema (MVP) para testar o interesse dos usuários e coletar feedbacks sobre a utilidade da ferramenta.
+
+Prototipagem:
+A prototipagem começaria com um modelo simples da interface (wireframe), mostrando como seria o processo de captura e organização dos conteúdos. Em seguida, seria desenvolvido um protótipo funcional básico, permitindo ao usuário capturar a tela e salvar os conteúdos organizados. Com base no uso real, seriam feitas melhorias contínuas no sistema.
+
+Dessa forma, a validação e a prototipagem garantem que o software seja desenvolvido de acordo com as necessidades reais dos usuários, aumentando suas chances de sucesso.
+
+======================================================================================================================================================================================================================================
+
+6. Pesquise um case de sucesso de uma startup que utilizou o conceito de MVP. Explique como isso ajudou a empresa a validar sua ideia e alcançar o sucesso.
+
+Um exemplo de startup que utilizou o conceito de MVP foi a Dropbox.
+
+Antes de desenvolver completamente o sistema, a empresa criou um MVP em forma de um vídeo demonstrativo, mostrando como o produto funcionaria na prática, ou seja, como seria possível armazenar e sincronizar arquivos na nuvem de maneira simples.
+
+Validação da ideia:
+Com esse vídeo, a empresa conseguiu medir o interesse do público antes mesmo de desenvolver o sistema completo. Após a divulgação, houve um grande aumento no número de pessoas interessadas no produto, o que validou a ideia e mostrou que existia demanda real no mercado.
+
+Como isso ajudou no sucesso:
+Ao utilizar o MVP, a Dropbox evitou investir tempo e recursos em um produto que poderia não ter aceitação. Com a validação positiva, a empresa pôde desenvolver o sistema com mais segurança, já sabendo que havia interesse dos usuários.
+
+Dessa forma, o uso do MVP permitiu testar a ideia de forma rápida e econômica, reduzindo riscos e contribuindo diretamente para o sucesso da empresa.
+
+======================================================================================================================================================================================================================================
+
+7. Crie um esboço de um protótipo para um sistema de gestão de tarefas e descreva como você o apresentaria aos usuários para obter feedbacks.
+
+Protótipo do sistema de gestão de tarefas:
+O sistema teria uma interface simples e intuitiva, composta por:
+
+Uma tela principal com a lista de tarefas
+Botão para adicionar nova tarefa
+Opção de definir prioridade (alta, média, baixa)
+Opção de definir prazo (data limite)
+Marcação de tarefa como concluída
+Filtros para visualizar tarefas (todas, pendentes, concluídas)
+
+O layout seria organizado em formato de lista, com cada tarefa exibindo título, prioridade e prazo, permitindo fácil visualização e controle das atividades.
+
+==================================
+
+Apresentação para os usuários:
+O protótipo seria apresentado inicialmente como um wireframe (modelo visual simples), podendo ser feito em papel ou em ferramentas digitais. Em seguida, seria disponibilizada uma versão interativa básica para que os usuários possam testar as funcionalidades.
+
+Durante a apresentação, seriam solicitados feedbacks dos usuários sobre:
+
+Facilidade de uso
+Clareza das informações
+Funcionalidades mais úteis
+Sugestões de melhorias
+
+Também poderiam ser aplicados questionários rápidos após o uso do sistema, além de observar como o usuário interage com a ferramenta.
+
+Dessa forma, os feedbacks coletados ajudariam a melhorar o sistema antes do desenvolvimento completo, garantindo que ele atenda às necessidades reais dos usuários.
+
+======================================================================================================================================================================================================================================
+
+8. Explique como você utilizaria a prototipagem para reduzir riscos em um projeto de desenvolvimento de software.
+
+A prototipagem pode ser utilizada para reduzir riscos em um projeto de desenvolvimento de software ao permitir a validação das ideias antes da construção completa do sistema.
+
+Inicialmente, são criados protótipos simples (wireframes ou modelos interativos) que representam as principais funcionalidades e a interface do sistema. Esses protótipos são apresentados aos usuários para que possam testar e dar feedback sobre usabilidade, organização e utilidade das funcionalidades.
+
+Com isso, é possível identificar problemas como funcionalidades desnecessárias, dificuldades de uso ou falhas na lógica do sistema ainda nas fases iniciais do projeto. Isso evita retrabalho e reduz custos, já que ajustes feitos no protótipo são mais rápidos e baratos do que alterações no sistema já desenvolvido.
+
+Além disso, a prototipagem ajuda a alinhar as expectativas entre desenvolvedores e usuários, garantindo que o produto final atenda às necessidades reais.
+
+Dessa forma, a prototipagem reduz riscos técnicos, financeiros e de aceitação do produto, aumentando as chances de sucesso do projeto.
+
+======================================================================================================================================================================================================================================
+
+9. Descreva um exemplo fictício de um produto digital que poderia ser desenvolvido usando o modelo Lean Startup, explicando como seria o MVP inicial.
+
+Um exemplo de produto digital seria um aplicativo voltado para organização de estudos, onde o usuário pode salvar conteúdos como textos, imagens e links, organizando tudo de forma simples por matérias ou temas.
+
+Esse aplicativo teria como objetivo ajudar estudantes a manterem seus estudos organizados de maneira prática, centralizando todas as informações em um único lugar.
+
+MVP (Produto Mínimo Viável):
+O MVP inicial seria uma versão simples do aplicativo contendo apenas as funcionalidades essenciais, como:
+
+Cadastro de usuário
+Criação de categorias (matérias ou temas)
+Salvamento de textos e imagens
+Visualização organizada dos conteúdos
+
+Nesse estágio inicial, o foco seria validar se os usuários realmente utilizam a ferramenta e se ela resolve o problema de organização dos estudos.
+
+Com base no uso e nos feedbacks coletados, novas funcionalidades poderiam ser adicionadas, como lembretes, integração com captura de tela e sincronização em nuvem.
+
+Dessa forma, o modelo Lean Startup permite desenvolver o produto de forma gradual, testando e ajustando conforme a necessidade dos usuários, reduzindo riscos e aumentando as chances de sucesso.
+
+======================================================================================================================================================================================================================================
+
+10. Liste três vantagens de utilizar o Business Model Canvas para planejar um sistema de software e explique como cada uma dessas vantagens pode influenciar o sucesso do projeto.
+
+
+1. Visão geral do negócio
+O Business Model Canvas permite visualizar todos os aspectos do projeto em um único quadro, como clientes, proposta de valor, receitas e custos. Isso ajuda a entender melhor o funcionamento do sistema como um todo, evitando falhas de planejamento e aumentando as chances de sucesso.
+
+2. Facilidade de identificação de problemas
+Ao organizar as informações de forma clara, fica mais fácil identificar pontos fracos, como custos elevados ou falta de definição de público-alvo. Isso permite realizar ajustes ainda na fase inicial, reduzindo riscos e evitando prejuízos futuros.
+
+3. Melhor comunicação entre equipe e stakeholders
+O Canvas facilita o entendimento do projeto por todas as pessoas envolvidas, mesmo aquelas que não têm conhecimento técnico. Isso melhora a comunicação, alinha expectativas e contribui para decisões mais assertivas durante o desenvolvimento do software.
+
+Dessa forma, o uso do Business Model Canvas contribui diretamente para um planejamento mais eficiente, reduzindo riscos e aumentando as chances de sucesso do projeto.

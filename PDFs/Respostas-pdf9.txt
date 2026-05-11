@@ -1,0 +1,163 @@
+1. Explique como o planejamento financeiro pode ajudar uma startup a escalar uma solução tecnológica. Dê exemplos de recursos que devem ser planejados.
+
+O planejamento financeiro ajuda a startup a crescer de forma organizada e sustentável, evitando gastos desnecessários e garantindo recursos suficientes para suportar o aumento de usuários e funcionalidades.
+
+No caso do KnowPass, conforme a plataforma crescer, será necessário investir em:
+
+servidores em nuvem;
+banco de dados;
+equipe de desenvolvimento;
+marketing digital;
+suporte aos usuários;
+ferramentas de monitoramento e segurança.
+
+Com um bom planejamento financeiro, a startup consegue prever custos futuros e manter a qualidade do aplicativo mesmo com aumento da demanda.
+
+2. Descreva o que são KPIs e liste três indicadores de performance importantes para um sistema de e-commerce. Explique por que eles são relevantes.
+
+KPIs são indicadores de performance utilizados para medir a eficiência e o desempenho de um sistema ou negócio.
+
+Três KPIs importantes são:
+
+Tempo de resposta: mede a velocidade do sistema ao responder ações do usuário. É importante para garantir boa experiência e evitar lentidão.
+Uptime: representa o tempo em que o sistema permanece disponível. Um aplicativo precisa estar acessível praticamente o tempo todo para não perder usuários.
+Taxa de conversão: mede quantos usuários realizam ações desejadas, como cadastro ou compra. Isso ajuda a avaliar o sucesso da plataforma.
+
+No KnowPass, esses indicadores ajudariam a monitorar a qualidade do aplicativo e a satisfação dos usuários.
+
+3. Crie uma simulação de planejamento de escalabilidade para uma aplicação web que espera dobrar o número de usuários em seis meses. Considere os custos de infraestrutura e equipe.
+
+Uma aplicação web que possui atualmente 5 mil usuários e espera alcançar 10 mil usuários em seis meses precisará ampliar sua infraestrutura.
+
+Planejamento:
+
+contratação de servidores em nuvem escaláveis;
+aumento da capacidade do banco de dados;
+implementação de backup automatizado;
+contratação de mais um desenvolvedor backend;
+contratação de suporte técnico para atendimento aos usuários.
+
+Custos previstos:
+
+infraestrutura em nuvem: R$ 1.500 mensais;
+banco de dados e monitoramento: R$ 500 mensais;
+novo desenvolvedor: R$ 5.000 mensais;
+marketing digital: R$ 2.000 mensais.
+
+Esse planejamento garante que o sistema continue funcionando bem mesmo com o crescimento da plataforma.
+
+4. Dê um exemplo de como a automação de processos pode ajudar a escalar um software sem comprometer a qualidade.
+
+A automação reduz tarefas manuais repetitivas, diminuindo erros e aumentando a produtividade.
+
+No KnowPass, processos como:
+
+backups automáticos;
+testes automatizados;
+envio de notificações;
+atualizações do sistema;
+validação de cadastro;
+
+poderiam ser automatizados.
+
+Isso permite que a equipe foque em melhorias do aplicativo enquanto o sistema mantém estabilidade e qualidade.
+
+5. Explique a importância do uptime como indicador de performance e descreva como uma empresa pode garantir altos níveis de uptime em seu software.
+
+O uptime mede o tempo em que o sistema permanece disponível para os usuários.
+
+Esse indicador é importante porque falhas constantes podem gerar:
+
+perda de usuários;
+baixa confiança;
+prejuízo financeiro;
+má reputação.
+
+Para garantir altos níveis de uptime, uma empresa pode:
+
+utilizar servidores em nuvem;
+manter backups;
+usar monitoramento em tempo real;
+implementar redundância de servidores;
+realizar manutenção preventiva.
+
+No KnowPass, isso garantiria acesso contínuo ao aplicativo e às trocas de livros.
+
+6. Pesquise e descreva uma ferramenta de monitoramento de desempenho para sistemas em nuvem. Como ela pode ser usada para melhorar a escalabilidade de um software?
+
+Uma ferramenta bastante utilizada é o Datadog.
+
+Ela monitora:
+
+uso de CPU;
+memória;
+tempo de resposta;
+tráfego da aplicação;
+erros do sistema.
+
+No KnowPass, o Datadog poderia identificar momentos de pico de acessos e alertar a equipe para aumentar automaticamente os recursos da infraestrutura, garantindo estabilidade do aplicativo.
+
+7. Descreva três práticas que uma empresa de software pode adotar para garantir a sustentabilidade financeira e ambiental de seus negócios.
+
+Uma empresa de software pode adotar:
+
+uso de servidores em nuvem eficientes energeticamente;
+modelo de receita sustentável, como assinaturas premium;
+incentivo à reutilização de recursos digitais e redução de desperdícios.
+
+O KnowPass contribui para sustentabilidade ambiental ao incentivar a reutilização de livros e diminuir desperdícios físicos, além de promover acesso ao conhecimento de forma colaborativa.
+
+8. Elabore um estudo de caso sobre uma empresa que tenha conseguido escalar sua solução tecnológica com sucesso. Quais foram os principais desafios enfrentados e como foram superados?
+
+Um exemplo é a Netflix.
+
+Inicialmente a empresa trabalhava com aluguel físico de DVDs, mas precisou adaptar sua infraestrutura para streaming online em larga escala.
+
+Os principais desafios foram:
+
+aumento massivo de usuários;
+necessidade de alta disponibilidade;
+consumo elevado de banda e servidores.
+
+A empresa superou esses desafios investindo em computação em nuvem, automação e distribuição global de servidores.
+
+Hoje a Netflix consegue atender milhões de usuários simultaneamente com estabilidade e rapidez.
+
+9. Explique como o uso de indicadores de performance pode auxiliar uma equipe de desenvolvimento a identificar gargalos e melhorar a experiência do usuário.
+
+Os indicadores de performance ajudam a equipe a identificar problemas antes que eles afetem os usuários.
+
+Ao monitorar:
+
+tempo de resposta;
+consumo de recursos;
+erros;
+disponibilidade do sistema;
+
+a equipe consegue localizar gargalos e otimizar o software.
+
+No KnowPass, isso ajudaria a detectar lentidão em buscas de livros ou falhas no sistema de geolocalização, melhorando a experiência dos usuários.
+
+10. Descreva como a migração para servidores em nuvem pode ser uma estratégia sustentável para empresas de software em crescimento. Quais são as vantagens desse modelo?
+
+A computação em nuvem permite que empresas aumentem ou reduzam recursos conforme a necessidade, evitando desperdícios de infraestrutura física.
+
+As principais vantagens são:
+
+escalabilidade;
+redução de custos;
+maior disponibilidade;
+backups automáticos;
+flexibilidade;
+eficiência energética.
+
+No caso do KnowPass, utilizar serviços em nuvem permitiria suportar o crescimento da comunidade de usuários sem necessidade de investir inicialmente em servidores físicos caros.
+
+
+
+
+
+
+
+
+

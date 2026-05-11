@@ -1,0 +1,165 @@
+1. Explique como identificar as necessidades dos usuários ao planejar um software. Dê um exemplo prático.
+
+Para identificar as necessidades dos usuários é importante realizar pesquisas, entrevistas, questionários e observar os problemas enfrentados no dia a dia. também é possível analisar softwares concorrentes para entender o que os usuários procuram. 
+
+Exemplo:
+
+Ao desenvolver um sistema para academias, os alunos podem reclamar da dificuldade em acompanhar seus treinos e horários. Assim o software pode incluir: 
+
+Agendamento de aulas
+Acompanhamento de treino
+Histórico de evolução física
+notificação de horários
+
+Dessa forma o sistema atende as necessidade reais dos usuários.
+
+2. Descreva o que é um roadmap de produto e como ele ajuda no planejamento de um serviço de software.
+
+O roadmap de produto é um planejamento estratégico que mostra as etapas de desenvolvimento de um software. Ele organiza:
+Funcionalidades
+Prioridades
+metas
+cronogramas
+atualizações futuras
+
+Ajudando a equipe a manter a organização e foco nos objetivos do projeto, evitando atrasos e desenvolvimento desnecessário
+
+Exemplo:
+
+Um RoadMap pode definir:
+
+1. Primeiro Mês: Criação do sistema de login;
+2. Segundo Mês: Cadastro de usuários;
+3. Terceiro Mês: Integração com pagamentos;
+4. Quarto Mês: Lançamento da versão beta;
+
+3. Pesquise um software que você utiliza e liste suas funcionalidades principais e diferenciadas. Explique como você faria o planejamento de funcionalidades para esse software.
+
+WhatsApp
+
+Funcionalidades Principais:
+Envio de mensagens
+Chamadas de Voz
+Chamadas de Vídeo
+Envio de Arquivos
+Grupos
+
+Funcionalidades Diferenciais
+
+Mensagens Temporárias
+Canais
+Criptografia de ponta a ponta
+Compartilhamento de Tela
+Integração entre dispositivos
+
+Planejamento de funcionalidades:
+
+Primeiro seriam implementadas as funções básicas de comunicação, como mensagens e chamadas. depois seriam adicionadas funcionalidades avançadas, como compartilhamento de tela e integração com múltiplos dispositivos. As prioridades seriam definidas conforme a necessidade dos usuários e testes realizados.
+
+4. Explique o que é uma persona no marketing digital e crie uma persona fictícia para um software de gestão de projetos.
+
+Persona é um personagem fictício criado para representar o cliente ideal de um produto ou serviço. Ela ajuda a empresa a entender melhor o público alvo.
+
+Persona Ficticia:
+Nome:Crendio
+Idade: 32 anos
+Profissão: Gerente de projetos
+Objetivo: organizar tarefas da equipe e aumentar produtividade
+Dificuldades: Falta de controle sobre prazos e comunicação entre equipes.
+Necessidade: Um software simples, acessível e com relatórios automáticos.
+
+
+5. Escolha dois canais de marketing digital (como e-mail marketing e SEO) e explique como eles podem ser usados para promover um sistema de gestão de academias.
+
+Email Marketing
+
+Pode ser enviado:
+
+Promoções
+Demonstração Gratuitas
+Dicas de Gestão
+Novidades do Sistema
+
+Isso pode ajudar a manter contato com possíveis clientes
+
+SEO
+
+Consiste em otimizar o site para aparecer no google quando alguém pesquisar.
+
+Software para Academia
+Sistema de Gestão para academias.
+
+6. Descreva como uma startup de tecnologia poderia usar marketing de conteúdo para atrair clientes para um aplicativo de organização financeira.
+
+A startup poderia criar conteúdos educativos como:
+Videos sobre educação financeira
+artigos ensinando controle de gastos
+posts com dicas de economia
+planilhas gratuitas
+
+esses conteúdos ajudam a atrair pessoas interessadas em organizar suas finanças e apresentam o aplicativo como solução.
+
+Também poderiam ser usados blogs, youtube, instagram e LinkedIn Para aumentar o alcance da marca.
+
+7. Defina um objetivo SMART para uma empresa de software que deseja aumentar sua base de clientes em 20% nos próximos 6 meses. Explique cada elemento do SMART aplicado à sua meta.
+
+Explicação SMART
+
+S (Especifico): Aumentar a base de clientes
+M (Mensurável): Crescimento de 20%
+A (Atingível): Meta possível com campanha e melhorias
+R (Relevante): Crescimento de clientes aumenta faturamento
+T (Temporal): Prazo de 6 meses
+
+8. Crie um plano de metas de curto e longo prazo para uma startup de tecnologia que desenvolve um sistema de CRM (gestão de relacionamento com o cliente).
+
+Metas de curto prazo: 
+Finalizar a primeira versão do CRM
+Conquistar 50 Clientes em 6 meses
+Criar Suporte Técnico eficiente
+Lançar aplicativo Mobile
+
+Metas de longo prazo:
+Expandir atuação para outros estados
+Atingir 5 mil clientes em 3 anos
+Integrar inteligência Artificial ao sistema
+tornar-se referencia nacional em CRM para pequenas empresas
+
+9. Descreva como você organizaria uma campanha de marketing digital para um novo software de educação online, considerando mídias sociais e SEO.
+
+Primeiro seria Criado um site otimizado com SEO utilizando palavras-chave como:
+Curso Online, Plataforma Educacional, Aprendizado Online.
+
+Depois seriam feitas campanhas em redes sociais como instagram, facebook e LinkedIn com: 
+Vídeos demonstrativos
+depoimentos de alunos
+anúncios patrocinados
+conteúdos educativos
+
+Também seriam produzidos artigos e vídeos para gerar autoridade e atrair visitantes organicamente.
+
+10. Pesquise um caso de sucesso de uma empresa de software que utilizou um bom planejamento estratégico e descreva o impacto das metas e objetivos estabelecidos no sucesso da empresa.
+
+Netflix
+
+Netflix começou como uma empresa de aluguel de DVDs e utilizou planejamento estratégico para migrar para streaming online.
+
+Estratégias utilizadas
+
+Investimento em tecnologia
+Expansão internacional
+Criação de conteúdo próprio
+Análise de comportamento dos usuários
+
+Impacto das metas
+
+As metas judaram a empresa a:
+
+Crescer rapidamente
+Aumentar número de assinantes
+Dominar o mercado de streaming;
+Tornar-se referencia mundial em entretenimento digital
+
+O planejamento estratégico permitiu adaptação as mudanças do mercado e inovação constante.
+
+

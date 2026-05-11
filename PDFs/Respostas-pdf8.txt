@@ -1,0 +1,108 @@
+1. Explique as diferenças entre SCRUM e Kanban. Em que situações seria mais adequado usar cada metodologia?
+
+O SCRUM é uma metodologia ágil baseada em ciclos chamados sprints, que possuem duração definida e entregam funcionalidades específicas ao final de cada período. Já o Kanban funciona com fluxo contínuo de tarefas, utilizando colunas para acompanhar o andamento das atividades, como “A Fazer”, “Em Progresso” e “Concluído”.
+
+
+2. Descreva as responsabilidades de um Product Owner no SCRUM. Por que esse papel é importante no desenvolvimento de sistemas?
+
+O Product Owner é responsável por definir as prioridades do projeto e garantir que a equipe esteja trabalhando nas funcionalidades mais importantes para o cliente. Ele organiza o backlog, define requisitos e acompanha o valor das entregas.
+
+3. Explique como a prática de programação em par do XP pode melhorar a qualidade do código. Dê um exemplo de quando essa prática seria benéfica.
+
+A programação em par consiste em dois desenvolvedores trabalhando juntos no mesmo código. Enquanto um escreve o código, o outro revisa, identifica possíveis erros e sugere melhorias.
+
+4. Liste e explique as fases do ciclo de vida de um projeto de software. Dê um exemplo prático para cada fase.
+
+O ciclo de vida de um projeto de software possui várias etapas:
+
+Planejamento: definição dos objetivos e recursos necessários.
+Exemplo: decidir que o KnowPass será um aplicativo de compartilhamento de livros.
+Análise de requisitos: levantamento das necessidades do sistema.
+Exemplo: definir que o app terá geolocalização e sistema de reputação.
+Design: criação da arquitetura e interface do sistema.
+Exemplo: criação das telas de cadastro e busca de livros.
+Desenvolvimento: implementação do código do sistema.
+Exemplo: programação do sistema de pontos e níveis.
+Testes: verificação de erros e qualidade.
+Exemplo: testar o cadastro de livros e funcionamento da localização.
+Entrega e implantação: disponibilização do sistema aos usuários.
+Exemplo: publicação do aplicativo na Play Store.
+Manutenção: correção de erros e melhorias futuras.
+Exemplo: adicionar novas funcionalidades após feedback dos usuários.
+
+
+
+5. Crie um quadro Kanban simples com três colunas: 'A Fazer', 'Em Progresso' e 'Concluído'. Adicione pelo menos cinco tarefas para um projeto de desenvolvimento de um aplicativo móvel.
+
+A Fazer					Em Progresso			Concluído
+Sistema de chat				Cadastro de livros		Criação da logo
+Sistema de reputação			Geolocalização			Pesquisa de mercado
+Integração de pontos							Definição do nome KnowPass
+Tela de perfil								Criação da missão e visão
+Sistema de notificações							Protótipo inicial
+
+6. Descreva como a integração contínua pode ser usada para melhorar o fluxo de trabalho em um projeto ágil. Dê um exemplo prático.
+
+A integração contínua permite que alterações feitas pelos desenvolvedores sejam integradas e testadas frequentemente no sistema, reduzindo falhas e aumentando a confiabilidade do projeto.
+
+
+7. Explique como os testes automatizados contribuem para o controle de qualidade no desenvolvimento de software.
+
+Os testes automatizados verificam automaticamente se o sistema está funcionando corretamente após alterações no código.
+
+Eles ajudam a identificar erros rapidamente, reduzem falhas em produção e aumentam a segurança das entregas.
+
+No projeto KnowPass, testes automatizados poderiam validar:
+
+login dos usuários;
+cadastro de livros;
+funcionamento do sistema de pontos;
+cálculo de reputação dos usuários.
+
+Isso garante maior estabilidade e qualidade para os usuários do aplicativo.
+
+
+8. Simule a organização de uma sprint no SCRUM para o desenvolvimento de um módulo de login de um sistema. Defina o objetivo da sprint, as tarefas e o tempo estimado.
+
+Objetivo da Sprint:
+Desenvolver o módulo de login e cadastro de usuários do KnowPass.
+
+Duração da Sprint:
+2 semanas.
+
+Tarefas:
+
+Criar tela de login;
+Criar tela de cadastro;
+Implementar autenticação;
+Criar recuperação de senha;
+Validar campos do formulário;
+Realizar testes de segurança;
+Ajustar interface responsiva.
+
+Resultado esperado:
+Usuários poderão criar contas e acessar o aplicativo com segurança.
+
+9. Pesquise uma ferramenta de integração contínua e descreva como ela pode ser implementada em um projeto de software.
+
+Uma ferramenta bastante utilizada é o Jenkins.
+
+O Jenkins automatiza testes, integração e entrega do sistema sempre que novas alterações são enviadas ao repositório do projeto.
+
+No KnowPass, o Jenkins poderia:
+
+executar testes automáticos;
+verificar erros no código;
+gerar novas versões do aplicativo;
+automatizar deploys.
+
+Isso aumentaria a qualidade e velocidade do desenvolvimento.
+
+10. Explique como o ciclo de vida de um projeto de software pode ser adaptado ao uso de metodologias ágeis, como SCRUM e XP.
+
+As metodologias ágeis tornam o ciclo de vida mais flexível e iterativo, permitindo entregas frequentes e adaptação constante às necessidades do cliente.
+
+No SCRUM, o desenvolvimento ocorre em pequenas sprints com entregas incrementais. Já no XP, há foco em testes contínuos, programação em par e melhoria constante do código.
+
+No projeto KnowPass, isso permitiria desenvolver o aplicativo em etapas, começando pelo MVP com cadastro e busca de livros, e depois adicionando funcionalidades mais avançadas, como gamificação, reputação e recomendações inteligentes.
+

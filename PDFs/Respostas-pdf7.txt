@@ -1,0 +1,155 @@
+1. Explique a diferença entre uma licença de software proprietária e uma licença open source. Dê exemplos de cada uma.
+
+A licença proprietária mantém o controle total do software com o autor ou empresa desenvolvedora. O usuário pode utilizar o sistema apenas seguindo regras específicas, normalmente sem acesso ao código-fonte.
+
+Exemplo:
+Microsoft Windows;
+Adobe Photoshop.
+
+Já a licença open source permite que o código-fonte seja acessado, modificado e redistribuído por outras pessoas, desde que respeitem os termos da licença.
+
+Exemplo:
+Linux;
+WordPress;
+sistemas sob licença GNU GPL.
+
+Licenças open source permitem modificação e redistribuição do software.
+
+2. Pesquise as principais características de uma licença GNU GPL e descreva como ela impacta a distribuição e modificação de software.
+
+A licença GNU GPL é uma licença open source bastante utilizada.
+
+Principais características:
+permite uso gratuito;
+permite modificação do código;
+permite redistribuição;
+exige que versões modificadas também sejam distribuídas com a mesma licença;
+garante acesso ao código-fonte.
+Impacto:
+
+Ela incentiva o desenvolvimento colaborativo e evita que alguém transforme um software livre em software fechado.
+
+Isso ajuda comunidades de desenvolvedores a melhorarem continuamente os projetos.
+
+3. Descreva o processo de registro de software no INPI no Brasil e explique como ele pode ser útil para um desenvolvedor.
+
+No Brasil, o registro de software pode ser realizado no INPI (Instituto Nacional da Propriedade Industrial).
+
+Processo:
+Preparar documentação do software;
+Apresentar informações sobre autoria;
+Enviar trechos do código-fonte;
+Pagar a taxa de registro;
+Solicitar o registro junto ao INPI.
+
+O registro não é obrigatório, mas serve como prova legal de autoria em disputas judiciais.
+
+O registro ajuda a comprovar a autoria do software.
+
+4. Explique a diferença entre direitos autorais e patentes em relação ao software. Em que situação o desenvolvedor de software pode requerer uma patente?
+
+Os direitos autorais protegem o código e a criação intelectual do software, garantindo ao autor direitos sobre uso, distribuição e modificação.
+
+Já as patentes protegem invenções inovadoras e tecnologias específicas.
+
+No Brasil, software puro não pode ser patenteado, mas sistemas inovadores que utilizam software junto com um processo tecnológico podem receber patente.
+
+Exemplo:
+
+Um algoritmo integrado a um equipamento industrial inovador pode ser patenteado.
+
+A Lei de Propriedade Industrial não permite patente de software puro no Brasil.
+
+5. Simule a criação de um contrato de desenvolvimento de software entre um freelancer e uma empresa, detalhando os principais itens que devem constar no documento.
+
+Principais itens do contrato:
+identificação das partes
+descrição do projeto
+prazo de entrega
+valor e forma de pagamento
+direitos sobre o software
+cláusulas de confidencialidade
+suporte e manutenção
+multas por descumprimento
+condições de cancelamento
+Exemplo:
+
+Um freelancer é contratado para desenvolver um sistema de estoque. O contrato define prazo de 4 meses, pagamento em parcelas e determina que os direitos do sistema serão transferidos para a empresa após o pagamento completo.
+
+6. Descreva como um acordo de confidencialidade (NDA) pode proteger o código-fonte e outras informações sensíveis durante um projeto de software.
+
+O NDA (Acordo de Confidencialidade) impede que informações sigilosas sejam divulgadas sem autorização.
+
+Ele protege:
+
+código-fonte
+algoritmos
+estratégias
+dados de clientes
+planos de negócio
+
+Se alguma das partes divulgar informações protegidas, poderá sofrer penalidades legais.
+
+NDAs são usados para proteger informações sensíveis em projetos de software.
+
+7. Dê um exemplo de como o uso de software sem a devida licença pode gerar problemas legais para uma empresa.
+
+Uma empresa pode instalar versões piratas de softwares pagos para economizar dinheiro. Caso seja descoberta durante uma auditoria, poderá:
+
+pagar multas
+responder judicialmente
+sofrer prejuízo financeiro
+ter danos à reputação
+Exemplo:
+
+Uma empresa utiliza cópias ilegais do Microsoft Office em vários computadores e recebe processo por violação de licença.
+
+8. Explique como um desenvolvedor pode licenciar seu software sob uma licença proprietária e ainda permitir que outros desenvolvedores criem extensões ou plug-ins para seu sistema.
+
+O desenvolvedor pode manter o sistema principal fechado e disponibilizar APIs ou ferramentas específicas para criação de extensões.
+
+Assim:
+
+o núcleo do software permanece protegido
+terceiros podem desenvolver plug-ins autorizados
+o ecossistema do sistema cresce
+mais funcionalidades são adicionadas pela comunidade
+
+Exemplo:
+
+O WordPress permite plug-ins, embora algumas extensões sejam proprietárias.
+
+9. Pesquise um caso real de disputa legal envolvendo direitos autorais de software e descreva como os direitos autorais ou o registro de software foram utilizados no caso.
+
+Caso: Oracle vs Google
+
+A Oracle processou o Google alegando que o Android utilizava partes das APIs do Java sem autorização.
+
+A disputa envolveu:
+
+direitos autorais;
+reutilização de código;
+licenciamento de software.
+
+O caso durou vários anos e gerou debates sobre uso de APIs e propriedade intelectual no desenvolvimento de software.
+
+Esse caso mostrou a importância do licenciamento e da proteção de direitos autorais.
+
+10. Descreva os benefícios de se utilizar uma licença open source em um projeto de software colaborativo. Que tipo de desafios isso pode apresentar para os desenvolvedores?
+
+Benefícios:
+colaboração entre desenvolvedores
+evolução mais rápida do software
+correção rápida de falhas
+redução de custos
+maior transparência
+incentivo à inovação
+
+Desafios:
+dificuldade de controle sobre modificações
+necessidade de gerenciar contribuições
+possíveis problemas de compatibilidade
+risco de uso inadequado do código
+menor controle comercial do projeto
+
+O modelo open source é muito importante para projetos colaborativos e comunidades de desenvolvimento.
